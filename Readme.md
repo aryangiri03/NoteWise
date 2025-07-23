@@ -1,5 +1,5 @@
 # NoteWise 🎓🗂️
-Ask questions from your own documents using AI. Powered by Retrieval-Augmented Generation (RAG), OpenAI, FAISS, and Whisper.
+Ask questions from your own documents using AI. Powered by Retrieval-Augmented Generation (RAG), Groq, FAISS, and Whisper.
 
 ## Features
 - Upload multiple PDFs
@@ -7,4 +7,4 @@ Ask questions from your own documents using AI. Powered by Retrieval-Augmented G
 - Instant answers with source references
 
 ## Tech Stack
-Python, Streamlit, FAISS, LangChain, Whisper, OpenAI
+Python, Streamlit, FAISS, LangChain, Whisper, Groq
